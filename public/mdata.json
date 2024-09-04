@@ -1,0 +1,1818 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "releaseYear": 1994,
+      "genre": ["Drama", "Crime", "Mystery"],
+      "director": "Frank Darabont",
+      "plotKeywords": ["prison", "friendship", "hope", "escape", "redemption"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/72rRSPAZ82p3KXoGLz2ddTioMQl.jpg",
+      "landscapeShot": "https://image.tmdb.org/t/p/original/gZMgEUYbh0DIBNaRJT0ofxLDJ5T.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/embed/watch?v=6hB3S9bIaco",
+        "description": "Andy Dufresne, a banker wrongly convicted of murder, finds himself in the harsh world of Shawshank State Penitentiary. Through enduring friendships and personal resilience, he seeks redemption and freedom."
+      },
+      "cast": [
+        {
+          "name": "Tim Robbins",
+          "role": "Andy Dufresne",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/djLVFETFTvPyVUdrd7aLVykobof.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "role": "Ellis 'Red' Redding",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "name": "Bob Gunton",
+          "role": "Warden Samuel Norton",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+        },
+        {
+          "name": "William Sadler",
+          "role": "Heywood",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+        },
+        {
+          "name": "Clancy Brown",
+          "role": "Captain Byron Hadley",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 22
+      },
+      "language": "English",
+      "rating": 9.3,
+      "summary": "Andy Dufresne, a banker wrongly convicted of murder, is sentenced to life in Shawshank State Penitentiary where he forms an unlikely friendship with fellow inmate Red and seeks to prove his innocence.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Picture",
+              "recipient": "Frank Darabont"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Morgan Freeman"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Bob Gunton"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Frank Darabont"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "The Shawshank Redemption"
+            },
+            {
+              "category": "Best Actor – Drama",
+              "recipient": "Morgan Freeman"
+            },
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Frank Darabont"
+            }
+          ]
+        },
+        "BAFTA": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Film",
+              "recipient": "The Shawshank Redemption"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Morgan Freeman"
+            },
+            {
+              "category": "Best Screenplay",
+              "recipient": "Frank Darabont"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/70005379",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B005K9R0QQ",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/the-shawshank-redemption",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/the-shawshank-redemption",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "releaseYear": 1972,
+      "genre": ["Crime", "Drama", "Thriller"],
+      "director": "Francis Ford Coppola",
+      "plotKeywords": ["mafia", "family", "power", "crime", "betrayal"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "landscapeShot": "https://image.tmdb.org/t/p/original/vDACQOBMpdwrcpKfnNrdg1z9MGq.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=sY1S34973zA",
+        "description": "The Godfather chronicles the powerful and complex story of the Corleone family, led by patriarch Vito Corleone, as they navigate power struggles, loyalty, and betrayal in the world of organized crime."
+      },
+      "cast": [
+        {
+          "name": "Marlon Brando",
+          "role": "Vito Corleone",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+        },
+        {
+          "name": "Al Pacino",
+          "role": "Michael Corleone",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+        },
+        {
+          "name": "James Caan",
+          "role": "Sonny Corleone",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+        },
+        {
+          "name": "Richard S. Castellano",
+          "role": "Clemenza",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1vr75BdHWret81vuSJ3ugiCBkxw.jpg"
+        },
+        {
+          "name": "Robert Duvall",
+          "role": "Tom Hagen",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 55
+      },
+      "language": "English",
+      "rating": 9.2,
+      "summary": "The Godfather is a dramatic portrayal of a powerful Italian-American crime family led by Vito Corleone. As he seeks to transfer power to his reluctant son Michael, the family faces internal and external challenges.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Picture",
+              "recipient": "Albert S. Ruddy"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Marlon Brando"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Mario Puzo, Francis Ford Coppola"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Director",
+              "recipient": "Francis Ford Coppola"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "James Caan"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Richard S. Castellano"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "The Godfather"
+            },
+            {
+              "category": "Best Actor – Drama",
+              "recipient": "Marlon Brando"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Francis Ford Coppola"
+            }
+          ]
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Film",
+              "recipient": "The Godfather"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Marlon Brando"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Director",
+              "recipient": "Francis Ford Coppola"
+            },
+            {
+              "category": "Best Screenplay",
+              "recipient": "Mario Puzo, Francis Ford Coppola"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60000724",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B003P2C8B4",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/the-godfather",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/the-godfather",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "releaseYear": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "director": "Christopher Nolan",
+      "plotKeywords": ["superhero", "crime", "joker", "batman", "vigilante"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/2lvBcFv2rbrAYsegEFWNkcbMnbU.jpg",
+      "landscapeShot": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+        "description": "The Dark Knight follows Batman as he confronts the Joker, a criminal mastermind who seeks to plunge Gotham City into chaos. Batman must navigate the fine line between heroism and vigilante justice."
+      },
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "role": "Bruce Wayne / Batman",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/qGNlWKM9qFQOJBJDRC3cXDwyS5.jpg"
+        },
+        {
+          "name": "Heath Ledger",
+          "role": "The Joker",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg"
+        },
+        {
+          "name": "Aaron Eckhart",
+          "role": "Harvey Dent",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/6rI3cYhdxOaOFSRB4C29MalpwDC.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "role": "Alfred Pennyworth",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Maggie Gyllenhaal",
+          "role": "Rachel Dawes",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 32
+      },
+      "language": "English",
+      "rating": 9.0,
+      "summary": "Batman, with the help of allies, faces off against the Joker, a psychopathic criminal who wants to destroy Gotham City. As the stakes rise, Batman must deal with the personal cost of his crusade and the nature of justice.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Heath Ledger"
+            },
+            {
+              "category": "Best Sound Editing",
+              "recipient": "Richard King"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Picture",
+              "recipient": "Christopher Nolan"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Christopher Nolan"
+            },
+            {
+              "category": "Best Cinematography",
+              "recipient": "Wally Pfister"
+            },
+            {
+              "category": "Best Film Editing",
+              "recipient": "Lee Smith"
+            },
+            {
+              "category": "Best Visual Effects",
+              "recipient": "Paul Franklin, Chris Corbould, Andrew Lockley, Peter Bebb"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Heath Ledger"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "The Dark Knight"
+            },
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Christopher Nolan"
+            },
+            {
+              "category": "Best Screenplay – Motion Picture",
+              "recipient": "Jonathan Nolan, Christopher Nolan"
+            }
+          ]
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Heath Ledger"
+            },
+            {
+              "category": "Best Editing",
+              "recipient": "Lee Smith"
+            },
+            {
+              "category": "Best Sound",
+              "recipient": "Richard King, Lora Hirschberg, Gary A. Rizzo, Ed Novick"
+            },
+            {
+              "category": "Best Visual Effects",
+              "recipient": "Paul Franklin, Chris Corbould, Andrew Lockley, Peter Bebb"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Film",
+              "recipient": "The Dark Knight"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Christopher Nolan"
+            },
+            {
+              "category": "Best Cinematography",
+              "recipient": "Wally Pfister"
+            },
+            {
+              "category": "Best Original Score",
+              "recipient": "Hans Zimmer"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/70079583",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B001I6A1T0",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/the-dark-knight",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/the-dark-knight",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Godfather: Part II",
+      "releaseYear": 1974,
+      "genre": ["Crime", "Drama", "Thriller"],
+      "director": "Francis Ford Coppola",
+      "plotKeywords": ["mafia", "family", "power", "crime", "betrayal"],
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "widePoster": "https://media.themoviedb.org/t/p/w1000_and_h563_face/oo4PVK6AyLZN49BokxDFGyclN86.jpg",
+      "landscapeShot": "https://example.com/godfather-part-ii-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=9O1Iy9od7-A",
+        "description": "The Godfather Part II continues the saga of the Corleone family, exploring the rise of Michael Corleone as the new Godfather while depicting the early life of Vito Corleone, reflecting on the family's legacy."
+      },
+      "cast": [
+        {
+          "name": "Al Pacino",
+          "role": "Michael Corleone",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpgg"
+        },
+        {
+          "name": "Robert De Niro",
+          "role": "Young Vito Corleone",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "name": "Diane Keaton",
+          "role": "Kay Adams",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/9WfaYj5iBMyDX4IJyM1bdMRD3x6.jpg"
+        },
+        {
+          "name": "Robert Duvall",
+          "role": "Tom Hagen",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+        },
+        {
+          "name": "John Marley",
+          "role": "Jack Woltz",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 3,
+        "minutes": 22
+      },
+      "language": "English",
+      "rating": 9.0,
+      "summary": "The Godfather: Part II explores Michael Corleone's efforts to consolidate his family's power, revealing the origins of his father Vito Corleone's rise in the world of organized crime and the ongoing challenges of leadership.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Picture",
+              "recipient": "Francis Ford Coppola, Albert S. Ruddy"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Francis Ford Coppola"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Robert De Niro"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Francis Ford Coppola, Mario Puzo"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Actor",
+              "recipient": "Al Pacino"
+            },
+            {
+              "category": "Best Supporting Actress",
+              "recipient": "Diane Keaton"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "The Godfather: Part II"
+            },
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Francis Ford Coppola"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Actor – Drama",
+              "recipient": "Al Pacino"
+            }
+          ]
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Film",
+              "recipient": "The Godfather: Part II"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Francis Ford Coppola"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Actor",
+              "recipient": "Al Pacino"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Robert De Niro"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60000725",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B003P2C8B4",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/the-godfather-part-ii",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/the-godfather-part-ii",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "12 Angry Men",
+      "releaseYear": 1957,
+      "genre": ["Drama", "Crime", "Thriller"],
+      "director": "Sidney Lumet",
+      "plotKeywords": ["jury", "justice", "deliberation", "conflict", "prejudice"],
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+      "widePoster": "https://media.themoviedb.org/t/p/w1000_and_h563_face/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "landscapeShot": "https://example.com/12-angry-men-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=7sPpE2Zp9qM",
+        "description": "12 Angry Men is a tense courtroom drama where twelve jurors must reach a unanimous verdict in a murder trial. As they deliberate, personal biases and conflicts emerge, challenging the principles of justice and fairness."
+      },
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "role": "Juror 8",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Lee J. Cobb",
+          "role": "Juror 3",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/dMpk9Xd3BqGOGHyOA1wQCcF8v1I.jpg"
+        },
+        {
+          "name": "Martin Balsam",
+          "role": "Juror 1",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg"
+        },
+        {
+          "name": "John Fiedler",
+          "role": "Juror 2",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg"
+        },
+        {
+          "name": "E.G. Marshall",
+          "role": "Juror 4",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/psimeVoRk64DV7UNm4cLQylRFy2.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 1,
+        "minutes": 36
+      },
+      "language": "English",
+      "rating": 9.0,
+      "summary": "12 Angry Men is a classic drama that explores the complexities of the jury system as twelve men deliberate over a murder trial. Their personal biases and conflicts come to light as they struggle to reach a fair verdict.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Picture",
+              "recipient": "Reginald Rose"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Sidney Lumet"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Lee J. Cobb"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [],
+          "nominated": []
+        },
+        "BAFTA": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Film",
+              "recipient": "12 Angry Men"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Henry Fonda"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60020848",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B003P2C8B4",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/12-angry-men",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/12-angry-men",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Schindler's List",
+      "releaseYear": 1993,
+      "genre": ["Biography", "Drama", "History"],
+      "director": "Steven Spielberg",
+      "plotKeywords": ["holocaust", "world war II", "humanity", "hero", "tragedy"],
+      "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/rKePA1655YWWOTSkyQuu8e84xi0.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/ykeZIKOJ28psgUiXhWxATMOHCNL.jpg",
+      "landscapeShot": "https://example.com/schindlers-list-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=9wzT8M5st7k",
+        "description": "Schindler's List is a powerful historical drama that tells the true story of Oskar Schindler, a German businessman who saved over a thousand Polish Jews during the Holocaust by employing them in his factories."
+      },
+      "cast": [
+        {
+          "name": "Liam Neeson",
+          "role": "Oskar Schindler",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+        },
+        {
+          "name": "Ben Kingsley",
+          "role": "Itzhak Stern",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "role": "Amon Goeth",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+        },
+        {
+          "name": "Caroline Goodall",
+          "role": "Emilie Schindler",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+        },
+        {
+          "name": "Jonathan Sagall",
+          "role": "Poldek Pfefferberg",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 3,
+        "minutes": 15
+      },
+      "language": "English",
+      "rating": 9.0,
+      "summary": "Schindler's List is a gripping historical drama depicting the life of Oskar Schindler, a businessman who risked everything to save more than a thousand Jews from the Holocaust by employing them in his factories.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Picture",
+              "recipient": "Steven Spielberg, Gerald R. Molen, Branko Lustig"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Steven Spielberg"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Steven Zaillian"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Ben Kingsley"
+            },
+            {
+              "category": "Best Original Score",
+              "recipient": "John Williams"
+            }
+          ],
+          "nominated": []
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "Schindler's List"
+            },
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Steven Spielberg"
+            },
+            {
+              "category": "Best Screenplay – Motion Picture",
+              "recipient": "Steven Zaillian"
+            }
+          ],
+          "nominated": []
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Film",
+              "recipient": "Schindler's List"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Steven Spielberg"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Liam Neeson"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Ben Kingsley"
+            }
+          ],
+          "nominated": []
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60020727",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B001I6B92E",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/schindlers-list",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/schindlers-list",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Return of the King",
+      "releaseYear": 2003,
+      "genre": ["Action", "Adventure", "Drama"],
+      "director": "Peter Jackson",
+      "plotKeywords": ["fantasy", "epic", "war", "heroism", "journey"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/9DeGfFIqjph5CBFVQrD6wv9S7rR.jpg",
+      "landscapeShot": "https://example.com/return-of-the-king-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+        "description": "The Return of the King concludes the epic journey of the Lord of the Rings trilogy as Frodo and Sam reach Mount Doom to destroy the One Ring, while Aragorn leads the forces of good in a climactic battle against Sauron's army."
+      },
+      "cast": [
+        {
+          "name": "Elijah Wood",
+          "role": "Frodo Baggins",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+        },
+        {
+          "name": "Viggo Mortensen",
+          "role": "Aragorn",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+        },
+        {
+          "name": "Orlando Bloom",
+          "role": "Legolas",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+        },
+        {
+          "name": "Ian McKellen",
+          "role": "Gandalf",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+        },
+        {
+          "name": "Sean Astin",
+          "role": "Samwise Gamgee",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 3,
+        "minutes": 21
+      },
+      "language": "English",
+      "rating": 8.9,
+      "summary": "The Return of the King brings the epic journey of the Lord of the Rings trilogy to a grand conclusion, featuring the final battle between good and evil and the ultimate quest to destroy the One Ring.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Picture",
+              "recipient": "Peter Jackson, Fran Walsh, Philippa Boyens, Barry M. Osborne"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Peter Jackson"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Peter Jackson, Fran Walsh, Philippa Boyens"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Ian McKellen"
+            },
+            {
+              "category": "Best Original Score",
+              "recipient": "Howard Shore"
+            },
+            {
+              "category": "Best Art Direction",
+              "recipient": "Dan Hennah, Alan Lee, Richard Taylor"
+            },
+            {
+              "category": "Best Costume Design",
+              "recipient": "Ngila Dickson, Richard Taylor"
+            },
+            {
+              "category": "Best Film Editing",
+              "recipient": "Jamie Selkirk"
+            },
+            {
+              "category": "Best Visual Effects",
+              "recipient": "Joe Letteri, Randy Cook, Alex Funke"
+            }
+          ],
+          "nominated": []
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Drama",
+              "recipient": "The Lord of the Rings: The Return of the King"
+            },
+            {
+              "category": "Best Director – Motion Picture",
+              "recipient": "Peter Jackson"
+            },
+            {
+              "category": "Best Screenplay – Motion Picture",
+              "recipient": "Peter Jackson, Fran Walsh, Philippa Boyens"
+            }
+          ],
+          "nominated": []
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Film",
+              "recipient": "The Lord of the Rings: The Return of the King"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Peter Jackson"
+            },
+            {
+              "category": "Best Actor in a Supporting Role",
+              "recipient": "Ian McKellen"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Peter Jackson, Fran Walsh, Philippa Boyens"
+            },
+            {
+              "category": "Best Production Design",
+              "recipient": "Dan Hennah, Alan Lee, Richard Taylor"
+            }
+          ],
+          "nominated": []
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60023456",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B0001F4G5E",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/the-lord-of-the-rings-the-return-of-the-king",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/the-lord-of-the-rings-the-return-of-the-king",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Pulp Fiction",
+      "releaseYear": 1994,
+      "genre": ["Crime", "Drama"],
+      "director": "Quentin Tarantino",
+      "plotKeywords": ["interwoven", "crime", "humor", "violence", "dialogue"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/aGnbW6lsbkwfxC8mhdGZv701CYA.jpg",
+      "landscapeShot": "https://example.com/pulp-fiction-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+        "description": "Pulp Fiction is a stylish and darkly comedic film that weaves together multiple interlocking stories involving crime and violence, directed by Quentin Tarantino."
+      },
+      "cast": [
+        {
+          "name": "John Travolta",
+          "role": "Vincent Vega",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/JSt3skdZpGPJYJixCZqH599WdI.jpg"
+        },
+        {
+          "name": "Uma Thurman",
+          "role": "Mia Wallace",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lg04iEqT6TC40H1jz10Z99OFMXx.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "role": "Jules Winnfield",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+          "name": "Harvey Keitel",
+          "role": "Mr. Wolf",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+        },
+        {
+          "name": "Bruce Willis",
+          "role": "Butch Coolidge",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 34
+      },
+      "language": "English",
+      "rating": 8.9,
+      "summary": "Pulp Fiction is a film by Quentin Tarantino that presents a series of interlocking stories involving crime and violence, blending dark humor and sharp dialogue in a unique narrative style.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Original Screenplay",
+              "recipient": "Quentin Tarantino, Roger Avary"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Picture",
+              "recipient": "Lawrence Taub, Quentin Tarantino"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Quentin Tarantino"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "John Travolta"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Samuel L. Jackson"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Musical or Comedy",
+              "recipient": "Pulp Fiction"
+            },
+            {
+              "category": "Best Screenplay",
+              "recipient": "Quentin Tarantino, Roger Avary"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Director",
+              "recipient": "Quentin Tarantino"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "John Travolta"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Samuel L. Jackson"
+            }
+          ]
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Screenplay",
+              "recipient": "Quentin Tarantino, Roger Avary"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Film",
+              "recipient": "Pulp Fiction"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Quentin Tarantino"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "John Travolta"
+            },
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Samuel L. Jackson"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60021980",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B0048I8P4O",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/pulp-fiction",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/pulp-fiction",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Forrest Gump",
+      "releaseYear": 1994,
+      "genre": ["Drama", "Romance"],
+      "director": "Robert Zemeckis",
+      "plotKeywords": ["life", "inspiration", "historical events", "love", "bravery"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+      "landscapeShot": "https://example.com/forrest-gump-landscape-shot.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+        "description": "Forrest Gump is an inspiring tale of a man with a low IQ who leads an extraordinary life, encountering pivotal moments in American history and demonstrating incredible perseverance and heart."
+      },
+      "cast": [
+        {
+          "name": "Tom Hanks",
+          "role": "Forrest Gump",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+        },
+        {
+          "name": "Robin Wright",
+          "role": "Jenny Curran",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+        },
+        {
+          "name": "Gary Sinise",
+          "role": "Lt. Dan Taylor",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+        },
+        {
+          "name": "Mykelti Williamson",
+          "role": "Benjamin Buford Blue",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/e5f7XCZAUEQ55rVhdphqzdMMI8b.jpg"
+        },
+        {
+          "name": "Sally Field",
+          "role": "Mrs. Gump",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/5fBK36MdmdwQQMuP0W70rXADXih.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 22
+      },
+      "language": "English",
+      "rating": 8.8,
+      "summary": "Forrest Gump is an inspiring tale of a man with a low IQ who leads an extraordinary life, encountering pivotal moments in American history and demonstrating incredible perseverance and heart.",
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Picture",
+              "recipient": "Wendy Finerman, Steve Tisch, Frank Marshall"
+            },
+            {
+              "category": "Best Actor",
+              "recipient": "Tom Hanks"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Robert Zemeckis"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Eric Roth"
+            },
+            {
+              "category": "Best Film Editing",
+              "recipient": "Arthur Schmidt"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Supporting Actor",
+              "recipient": "Gary Sinise"
+            },
+            {
+              "category": "Best Supporting Actress",
+              "recipient": "Sally Field"
+            },
+            {
+              "category": "Best Original Score",
+              "recipient": "Alan Silvestri"
+            }
+          ]
+        },
+        "GoldenGlobes": {
+          "won": [
+            {
+              "category": "Best Motion Picture – Musical or Comedy",
+              "recipient": "Forrest Gump"
+            },
+            {
+              "category": "Best Actor – Motion Picture Musical or Comedy",
+              "recipient": "Tom Hanks"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Robert Zemeckis"
+            }
+          ],
+          "nominated": []
+        },
+        "BAFTA": {
+          "won": [
+            {
+              "category": "Best Actor",
+              "recipient": "Tom Hanks"
+            },
+            {
+              "category": "Best Adapted Screenplay",
+              "recipient": "Eric Roth"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Film",
+              "recipient": "Forrest Gump"
+            },
+            {
+              "category": "Best Director",
+              "recipient": "Robert Zemeckis"
+            }
+          ]
+        }
+      },
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/60000775",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B00B10KZ5E",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        },
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/forrest-gump",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/forrest-gump",
+          "price": "$3.99 for Rent, $14.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Past Lives",
+      "releaseYear": 2023,
+      "genre": ["Romance", "Drama"],
+      "director": "Celine Song",
+      "plotKeywords": ["reunion", "childhood friends", "New York", "Seoul", "love story"],
+      "poster": "https://image.tmdb.org/t/p/original/w5iXJr4kEkymkaNk2zy77d5lrhk.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+      "landscapeShot": "https://example.com/landscape-shot/past-lives.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/embed/kA244xewjcI",
+        "description": "A romantic drama exploring the emotional journey of two childhood friends from Seoul who reunite decades later in New York City."
+      },
+      "cast": [
+        {
+          "name": "Greta Lee",
+          "role": "Nora",
+          "photo": "https://media.themoviedb.org/t/p/w276_and_h350_face/6SydTis4XUcovlwIGskT59JowLX.jpg"
+        },
+        {
+          "name": "Teo Yoo",
+          "role": "Hae Sung",
+          "photo": "https://media.themoviedb.org/t/p/w276_and_h350_face/vuzKCKo2kIskjbDEcl2EMLv6uhO.jpg"
+        },
+        {
+          "name": "John Magaro",
+          "role": "Arthur",
+          "photo": "https://media.themoviedb.org/t/p/w276_and_h350_face/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 1,
+        "minutes": 45
+      },
+      "language": "English",
+      "rating": 8.7,
+      "summary": "Two childhood friends from Seoul reunite decades later in New York City, navigating their past feelings and present lives.",
+      "awardsAndNominations": {
+  "Oscars": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Picture",
+        "recipient": "Celine Song"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Celine Song"
+      },
+      {
+        "category": "Best Original Screenplay",
+        "recipient": "Celine Song"
+      },
+      {
+        "category": "Best Actress",
+        "recipient": " Greta Lee"
+      }
+    ]
+  },
+  "GoldenGlobes": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Motion Picture – Foreign Language",
+        "recipient": "Past Lives"
+      },
+      {
+        "category": "Best Director – Motion Picture",
+        "recipient": "Celine Song"
+      },
+      {
+        "category": "Best Actress in a Motion Picture – Drama",
+        "recipient": "Greta Lee"
+      }
+    ]
+  },
+  "BAFTA": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Film Not in the English Language",
+        "recipient": "Past Lives"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Celine Song"
+      },
+      {
+        "category": "Best Actress",
+        "recipient": "Greta Lee"
+      }
+    ]
+  }
+      },
+
+      "watchOptions": [
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/past-lives",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/past-lives",
+          "price": "$4.99 for Rent, $19.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Oppenheimer",
+      "releaseYear": 2023,
+      "genre": ["Historical", "Drama"],
+      "director": "Christopher Nolan",
+      "plotKeywords": ["atomic bomb", "J. Robert Oppenheimer", "World War II", "history", "science"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "landscapeShot": "https://example.com/landscape-shot/oppenheimer.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/embed/watch?v=oppenheimer-trailer",
+        "description": "A historical drama delving into the life of J. Robert Oppenheimer, the physicist who played a pivotal role in the development of the atomic bomb."
+      },
+      "cast": [
+        {
+          "name": "Cillian Murphy",
+          "role": "J. Robert Oppenheimer",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/dm6V24NjjvjMiCtbMkc8Y2WPm2e.jpg"
+        },
+        {
+          "name": "Emily Blunt",
+          "role": "Kitty Oppenheimer",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/7BPmarWZn4tU2GDrLeNkJBlQThd.jpg"
+        },
+        {
+          "name": "Matt Damon",
+          "role": "Leslie Groves",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+        },
+        {
+          "name": "Robert Downey Jr.",
+          "role": "Lewis Strauss",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "role": "Jean Tatlock",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 2,
+        "minutes": 30
+      },
+      "language": "English",
+      "rating": 8.9,
+      "summary": "The story of J. Robert Oppenheimer and the development of the atomic bomb during World War II.",
+      "awardsAndNominations": {
+  "Oscars": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Picture",
+        "recipient": "Emma Thomas, Charles Roven, Christopher Nolan"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Christopher Nolan"
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "recipient": "Christopher Nolan"
+      },
+      {
+        "category": "Best Cinematography",
+        "recipient": "Hoyte van Hoytema"
+      },
+      {
+        "category": "Best Film Editing",
+        "recipient": "Jennifer Lame"
+      },
+      {
+        "category": "Best Original Score",
+        "recipient": "Ludwig Göransson"
+      },
+      {
+        "category": "Best Production Design",
+        "recipient": "Ruth De Jong"
+      },
+      {
+        "category": "Best Sound",
+        "recipient": "Richard King, Gary A. Rizzo, Gregg Landaker"
+      }
+    ]
+  },
+  "GoldenGlobes": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Motion Picture – Drama",
+        "recipient": "Oppenheimer"
+      },
+      {
+        "category": "Best Director – Motion Picture",
+        "recipient": "Christopher Nolan"
+      },
+      {
+        "category": "Best Actor in a Motion Picture – Drama",
+        "recipient": "Cillian Murphy"
+      },
+      {
+        "category": "Best Supporting Actress – Motion Picture",
+        "recipient": "Emily Blunt"
+      }
+    ]
+  },
+  "BAFTA": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Film",
+        "recipient": "Oppenheimer"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Christopher Nolan"
+      },
+      {
+        "category": "Best Leading Actor",
+        "recipient": "Cillian Murphy"
+      },
+      {
+        "category": "Best Supporting Actress",
+        "recipient": "Emily Blunt"
+      },
+      {
+        "category": "Best Original Screenplay",
+        "recipient": "Christopher Nolan"
+      }
+    ]
+  }
+}
+,
+      "watchOptions": [
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/oppenheimer",
+          "price": "$5.99 for Rent, $24.99 for Purchase"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/oppenheimer",
+          "price": "$5.99 for Rent, $19.99 for Purchase"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Barbie",
+      "releaseYear": 2023,
+      "genre": ["Comedy", "Fantasy"],
+      "director": "Greta Gerwig",
+      "plotKeywords": ["doll", "adventure", "fantasy world", "comedy", "self-discovery"],
+      "poster": "https://www.themoviedb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/v3gfn7147bmp776ouWRUL3j3viV.jpg",
+      "landscapeShot": "https://example.com/landscape-shot/barbie.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/embed/watch?v=barbie-trailer",
+        "description": "A humorous take on the iconic doll's story, featuring a vibrant cast and a journey of self-discovery in a fantastical world."
+      },
+      "cast": [
+        {
+          "name": "Margot Robbie",
+          "role": "Barbie",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jWzN6U6gHkOSkuXfzS3P8dteJDo.jpg"
+        },
+        {
+          "name": "Ryan Gosling",
+          "role": "Ken",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/asoKC7CLCqpZKZDL6iovNurQUdf.jpg"
+        },
+        {
+          "name": "Will Ferrell",
+          "role": "CEO",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+        },
+        {
+          "name": "Issa Rae",
+          "role": "Barbie President",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yGnwkmwA0hJsVx2qzImxsoRSelS.jpg"
+        },
+        {
+          "name": "Simu Liu",
+          "role": "Ken",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/zrJjYjOYzDj7eY9oiHAoz8Yh0yk.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 1,
+        "minutes": 55
+      },
+      "language": "English",
+      "rating": 8.5,
+      "summary": "A fresh and humorous approach to the iconic doll's story, with a focus on adventure and self-discovery in a fantastical world.",
+      "awardsAndNominations": {
+  "Oscars": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Picture",
+        "recipient": "Margot Robbie, Tom Ackerley"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Greta Gerwig"
+      },
+      {
+        "category": "Best Original Screenplay",
+        "recipient": "Greta Gerwig, Noah Baumbach"
+      },
+      {
+        "category": "Best Production Design",
+        "recipient": "Sarah Greenwood"
+      },
+      {
+        "category": "Best Costume Design",
+        "recipient": "Jacqueline Durran"
+      }
+    ]
+  },
+  "GoldenGlobes": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Motion Picture – Musical or Comedy",
+        "recipient": "Barbie"
+      },
+      {
+        "category": "Best Director – Motion Picture",
+        "recipient": "Greta Gerwig"
+      },
+      {
+        "category": "Best Actress in a Motion Picture – Musical or Comedy",
+        "recipient": "Margot Robbie"
+      },
+      {
+        "category": "Best Supporting Actress – Motion Picture",
+        "recipient": "Ryan Gosling"
+      }
+    ]
+  },
+  "BAFTA": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Film",
+        "recipient": "Barbie"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Greta Gerwig"
+      },
+      {
+        "category": "Best Leading Actress",
+        "recipient": "Margot Robbie"
+      },
+      {
+        "category": "Best Costume Design",
+        "recipient": "Jacqueline Durran"
+      }
+    ]
+  }
+},
+
+      "watchOptions": [
+        {
+          "platform": "Hulu",
+          "url": "https://www.hulu.com/movie/barbie",
+          "price": "Subscription Required"
+        },
+        {
+          "platform": "Netflix",
+          "url": "https://www.netflix.com/watch/barbie",
+          "price": "Subscription Required"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Killers of the Flower Moon",
+      "releaseYear": 2023,
+      "genre": ["Crime", "Drama"],
+      "director": "Martin Scorsese",
+      "plotKeywords": ["Osage Nation", "murder", "1920s", "Oklahoma", "true crime"],
+      "poster": "https://image.tmdb.org/t/p/original/yKzDnjsuLhh9B4xc0vNgz1YzYsT.jpg",
+      "widePoster": "https://image.tmdb.org/t/p/original/6WFfCMe7J7FxsnlHEo1wzU2JH6s.jpg",
+      "landscapeShot": "https://example.com/landscape-shot/killers-of-the-flower-moon.jpg",
+      "trailer": {
+        "url": "https://www.youtube.com/embed/watch?v=killers-of-the-flower-moon-trailer",
+        "description": "Martin Scorsese’s crime drama about the Osage Nation murders in 1920s Oklahoma, featuring a gripping narrative and stellar performances."
+      },
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "role": "Ernest Burkhart",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/5Brc5dLifH3UInk3wUaCuGXpCqy.jpg"
+        },
+        {
+          "name": "Lily Gladstone",
+          "role": "Mollie Kyle",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/wICIMv7QNmKOp9QaTKcd8ugQf7J.jpg"
+        },
+        {
+          "name": "Robert De Niro",
+          "role": "William Hale",
+          "photo": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "name": "Jesse Plemons",
+          "role": "Tom White",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/t0pEM4pYfWGWiWoWErcmj2Ty16E.jpg"
+        },
+        {
+          "name": "Tantoo Cardinal",
+          "role": "Lizzie Q",
+          "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+        }
+      ],
+      "runtime": {
+        "hours": 3,
+        "minutes": 10
+      },
+      "language": "English",
+      "rating": 9.0,
+      "summary": "A crime drama set in 1920s Oklahoma about the Osage Nation murders, exploring themes of greed, betrayal, and justice.",
+      "awardsAndNominations": {
+  "Oscars": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Picture",
+        "recipient": "Martin Scorsese, Emma Tillinger Koskoff"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Martin Scorsese"
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "recipient": "Eric Roth, Martin Scorsese"
+      },
+      {
+        "category": "Best Actor",
+        "recipient": "Leonardo DiCaprio"
+      },
+      {
+        "category": "Best Supporting Actor",
+        "recipient": "Robert De Niro"
+      },
+      {
+        "category": "Best Supporting Actress",
+        "recipient": "Lily Gladstone"
+      },
+      {
+        "category": "Best Cinematography",
+        "recipient": "Rodrigo Prieto"
+      },
+      {
+        "category": "Best Film Editing",
+        "recipient": "Thelma Schoonmaker"
+      }
+    ]
+  },
+  "GoldenGlobes": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Motion Picture – Drama",
+        "recipient": "Killers of the Flower Moon"
+      },
+      {
+        "category": "Best Director – Motion Picture",
+        "recipient": "Martin Scorsese"
+      },
+      {
+        "category": "Best Actor in a Motion Picture – Drama",
+        "recipient": "Leonardo DiCaprio"
+      },
+      {
+        "category": "Best Supporting Actress – Motion Picture",
+        "recipient": "Lily Gladstone"
+      }
+    ]
+  },
+  "BAFTA": {
+    "won": [],
+    "nominated": [
+      {
+        "category": "Best Film",
+        "recipient": "Killers of the Flower Moon"
+      },
+      {
+        "category": "Best Director",
+        "recipient": "Martin Scorsese"
+      },
+      {
+        "category": "Best Leading Actor",
+        "recipient": "Leonardo DiCaprio"
+      },
+      {
+        "category": "Best Supporting Actress",
+        "recipient": "Lily Gladstone"
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "recipient": "Eric Roth, Martin Scorsese"
+      }
+    ]
+  }
+},
+      "watchOptions": [
+        {
+          "platform": "Apple TV",
+          "url": "https://tv.apple.com/movie/killers-of-the-flower-moon",
+          "price": "$6.99 for Rent, $29.99 for Purchase"
+        },
+        {
+          "platform": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/killers-of-the-flower-moon",
+          "price": "$6.99 for Rent, $24.99 for Purchase"
+        }
+      ]
+    }
+  ]
+}

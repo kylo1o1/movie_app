@@ -1,0 +1,32 @@
+.genre-selector {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 15px;
+    background-color: #272729;
+  }
+  
+.genre-item {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #0E0B06;
+    cursor: pointer;
+    background-color: #787878;
+    transition: background-color 0.3s, color 0.3s;
+}
+  
+.genre-item.selected {
+    background-color: #FFBB00 !important;
+    color: #0E0B06;
+    border-color: #787878;
+}
+  
+.genre-item:hover {
+    background-color:#787878;
+}
+.genre-item.selected:hover{
+  background-color:#FFBB00 ;
+}
+  

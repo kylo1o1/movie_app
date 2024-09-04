@@ -1,0 +1,33 @@
+.footer {
+    font-size: 0.9rem;
+}
+
+.footer h5 {
+    color:white;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.footer .links:hover {
+    text-decoration: underline;
+    color: rgb(245, 197, 24);
+}
+
+.footer ul {
+    padding-left: 0;
+}
+
+.footer .list-unstyled li {
+    margin-bottom: 0.5rem;
+}
+
+
+.footer .links {
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.footer .text-white:hover {
+opacity: 1;
+}

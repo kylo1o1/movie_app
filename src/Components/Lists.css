@@ -1,0 +1,119 @@
+/* WatchList.css */
+
+.watch-list {
+padding: 20px;
+background-color: #f8f8f8;
+}
+
+.list-title {
+text-align: left;
+margin-bottom: 30px;
+}
+
+.list-title h2 {
+font-size: 2em;
+margin-bottom: 10px;
+}
+
+.list-title span {
+font-size: 1em;
+color: #666;
+}
+
+.movie-row {
+    margin-bottom: 0px; /* Reduce bottom margin to make rows closer together */
+    padding: 30px 0; /* Reduce padding to decrease the overall row height */
+    align-items: center; /* Center content vertically */
+    border-bottom: 1px solid #ddd;
+}
+
+.movie-poster {
+border-radius: 5px;
+}
+
+.mov-body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.mov-title h3 {
+font-size: 1.5em;
+margin: 0;
+}
+
+.number-details span{
+    color: #777;
+    display: flex;
+    gap: 15px; /* Adds space between each item */
+    margin-top: 5px;
+  }
+.rate{
+    display: flex;
+    align-content: center;
+    gap: 5px;
+    color: #777;
+    margin-top: 5px;
+}
+   
+.rate span svg{
+    height: 14px;
+    fill: #FFBB00;
+}
+
+
+.mov-details {
+margin-top: 20px;
+font-size: 1.1em;
+}
+.mov-desc{
+    margin-top: 20px;
+}
+.mov-desc p {
+font-size: 1.1em;
+margin: 0;
+color: #333;
+}
+
+.cast-director {
+margin-top: 10px;
+font-size: 0.9em;
+}
+
+.cast-director strong {
+margin-right: 5px;
+}
+
+.cast-name, .director-link {
+margin-right: 5px;
+}
+
+.info-button {
+background-color: transparent;
+border: none;
+padding: 0;
+}
+
+.poster-link, .movie-title-link, .director-link {
+text-decoration: none;
+color: inherit;
+}
+
+.poster-link:hover, .movie-title-link:hover, .director-link:hover {
+text-decoration: underline;
+}
+
+@media (max-width: 576px) {
+.mov-body, .mov-details {
+    text-align: center;
+}
+
+.movie-row {
+    flex-direction: column;
+    
+}
+
+.number-details {
+    justify-content: center;
+}
+}

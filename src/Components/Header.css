@@ -1,0 +1,39 @@
+.nav-header {
+    position: relative; /* Ensure navbar can contain absolutely positioned elements */
+    background-color: #121212;
+  }
+.navbar-link-text.nav-link{
+  align-self: center;
+} 
+  .navbar-link-text  {
+    color: #fff; /* Adjust color as needed */
+    margin-left: 20px;
+    text-decoration: none;
+    position: relative;
+    padding: 5px 0;
+    display: inline-block; /* Keep the link inline but allow positioning */
+  }
+  
+  .navbar-link-text:hover{
+    color: rgb(245, 197, 24);
+  }
+  
+  .navbar-link-text::after {
+    content: '';
+    position: absolute;
+    left: 8px;
+    bottom: -10px; /* Position the line slightly below the text */
+    width: 81%; /* Match underline width to text */
+    height: 4px; /* Adjust thickness as needed */
+    background-color: rgb(245, 197, 24); /* Adjust color as needed */
+    transform: scaleX(0); /* Start hidden */
+    transform-origin: bottom left;
+    transition: transform 0.3s ease;
+  }
+  
+  .navbar-link-text:hover::after {
+    transform: scaleX(1); /* Expand underline to full width on hover */
+  }
+.navbar-link-text.active {
+  color: #FFBB00;
+}

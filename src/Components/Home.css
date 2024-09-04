@@ -1,0 +1,123 @@
+.carousal-movie{
+    position: relative;
+}
+.carousal-movie .carousal-movie-detail{
+    background-color: #252525;
+    position: absolute;
+    bottom: 40%;
+    left: 5%;
+}
+.c-movie-title{
+    color: white;
+}
+.c-movie-title span{
+    color:rgb(245, 197, 24) ;
+}
+.c-movie-details{
+    color: #fff800;
+
+}
+.c-movie-links{
+    padding: 10px;
+    background-color: #fff800;
+}
+.c-movie-links a{
+    text-decoration: none;
+    color: #252525;
+    font-weight: 500;
+}
+.carousel-control-prev{
+    width:50px;
+    justify-content: right;
+}
+.carousel-control-next{
+    width: 50px;
+    justify-content: left;
+}
+
+.bookmark-symb{
+    position: absolute;
+    top: -3px;
+    left: 3px;
+    padding: 0;
+}
+.watch-later{
+    all: unset;
+}
+.watch-later:hover{
+    all: unset;
+    cursor: pointer;
+}
+.bookmark {
+    transition: fill 0.3s ease;
+
+  }
+  
+  
+  .bookmark.plus .main {
+    fill: rgba(31, 31, 31, 0.75);
+  }
+  
+  .bookmark.plus:hover .main {
+    fill: rgba(31, 31, 31, 0.5); 
+  }
+  
+  
+  .bookmark.check .main {
+    fill: #FFBB00;
+  }
+  
+  .bookmark.check:hover .main {
+    fill: #d49a00; 
+  }
+  
+.movie-col{
+    position: relative;
+}
+.new-arrivals-images{
+    box-shadow: rgba(245, 197, 24, 0.12) 0px 2px 4px 0px,
+    rgba(245, 197, 24, 0.32) 0px 2px 16px 0px;
+}
+
+.new-arrivals-nameYear{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: white;
+    padding: 0px 2px;
+    text-align: center;
+}
+.new-arrivals a{
+    text-decoration: none;
+}
+.new-arrivals h3{
+    position: relative;
+    text-align: left;
+    left: 15px;
+    color: white;
+    
+    
+}
+.new-arrivals h3::before{
+    content: '';
+    width: 4px;
+    left: 0;
+    height:100%;
+    margin-left: -.75rem;
+    background-color: rgb(245, 197, 24);
+    border-radius: 20px;
+    position: absolute;
+    
+}
+.new-arrivals h3:hover svg path{ 
+    stroke: rgb(245, 197, 24);
+    stroke-width: 2;
+}
+.top-picks span{
+    color:rgba(255, 255, 255, 0.7) ;
+}
+.to-watch{
+    margin: 50px 0px;
+}
+.to-watch h2{
+    color: rgb(245, 197, 24);
+}

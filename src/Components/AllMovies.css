@@ -1,0 +1,35 @@
+.wrapper-movie{
+    background-color: #0E0B06 ;
+}
+.title-year{
+    padding-top:  20px;
+    padding-bottom: 10px;
+    color: #BDC3C7;
+    text-align: center;
+    background-color: #494A4E;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.title-year h6{
+    color: #f7f8fB;
+}
+.symbols svg{
+    margin-left: 10px;
+}
+.movie-poster{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 0px 9px 30px  rgba(255, 149, 5, 0.3);
+}
+.page-title {
+    color: #FFBB00;
+    margin-bottom: 30px;
+   
+}
+.movies{
+    padding: 10px;
+   
+}
+.movs{
+    box-sizing: border-box;
+}
