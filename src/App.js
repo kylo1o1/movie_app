@@ -34,9 +34,8 @@ import { allGenres } from './Redux/genre';
     <div >
       <Router>
       <Header/>
-
         <Routes>
-         <Route path='/home' element={<Home/>}/>
+         <Route path='/' element={<Home/>}/>
          <Route path='/movieDetail/:id' element={<MovieDetails/>}/>
          <Route path='/allMovies' element = {<Movies/>}/>
          <Route path='/lists/*' element={<Lists/>}/>
