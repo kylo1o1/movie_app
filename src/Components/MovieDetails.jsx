@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import React, {  } from 'react'
 import { Button, Col, Container, Dropdown, Image, Row } from 'react-bootstrap'
 import './MovieDetails.css'
 import { Link, useParams } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
-import { addToWatch, removeWatch } from '../Redux/watchListSlice'
 import { unWatched, watched } from '../Redux/watchedSlice'
 
 const MovieDetails = () => {

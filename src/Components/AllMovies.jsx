@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {  } from 'react'
 import { Button, Col, Container, Image, Row } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
 import './AllMovies.css'

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { } from 'react'
 import './Genre.css'
 import { useDispatch, useSelector } from 'react-redux';
 import { genreSelected } from '../Redux/genre';
