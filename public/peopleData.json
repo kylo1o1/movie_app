@@ -1,0 +1,305 @@
+[
+    {
+      "id": 1,
+      "name": "Christopher Nolan",
+      "dateOfBirth": "30-07-1970",
+      "placeOfBirth": "London, England",
+      "nationality": "British-American",
+      "profession": "Film Director, Screenwriter, Producer",
+      "biographyDetails": "Christopher Nolan is known for his innovative storytelling, complex narratives, and visually striking films. He gained recognition for his cerebral and often non-linear storytelling, exemplified by movies such as 'Memento' and 'Inception.' His work spans across multiple genres, with a distinctive style that blends action, emotion, and intellect."
+    },
+    {
+      "personalInfo": {
+        "spouse": "Emma Thomas",
+        "children": 4,
+        "residence": "Los Angeles, California",
+        "education": {
+          "college": "University College London",
+          "degree": "English Literature"
+        }
+      }
+    },
+    {
+      "filmography": [
+        {
+          "title": "Following",
+          "year": 1998,
+          "genres": ["Thriller", "Crime", "Mystery"]
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "genres": ["Thriller", "Mystery", "Drama"]
+        },
+        {
+          "title": "Insomnia",
+          "year": 2002,
+          "genres": ["Thriller", "Crime", "Drama"]
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "genres": ["Sci-Fi", "Thriller", "Action"]
+        },
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "genres": ["Action", "Crime", "Drama"]
+        }
+      ]
+    },
+    {
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Achievement in Visual Effects",
+              "recipient": "Inception"
+            }
+          ],
+          "nominated": [
+            {
+              "category": "Best Director",
+              "recipient": "Dunkirk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Martin Scorsese",
+      "dateOfBirth": "17-11-1942",
+      "placeOfBirth": "New York City, USA",
+      "nationality": "American",
+      "profession": "Film Director, Producer, Screenwriter",
+      "biographyDetails": "Martin Scorsese is one of the most significant and influential directors in film history. He is known for his gritty, realistic depictions of crime, as well as his deep explorations of faith, guilt, and redemption."
+    },
+    {
+      "personalInfo": {
+        "spouse": "Helen Morris",
+        "children": 3,
+        "residence": "New York City, USA",
+        "education": {
+          "college": "New York University",
+          "degree": "Bachelor of Fine Arts in Film"
+        }
+      }
+    },
+    {
+      "filmography": [
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "genres": ["Crime", "Drama", "Thriller"]
+        },
+        {
+          "title": "Raging Bull",
+          "year": 1980,
+          "genres": ["Biography", "Drama", "Sport"]
+        },
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "genres": ["Crime", "Biography", "Drama"]
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "genres": ["Crime", "Drama", "Thriller"]
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "genres": ["Biography", "Crime", "Drama"]
+        }
+      ]
+    },
+    {
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Director",
+              "recipient": "The Departed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Quentin Tarantino",
+      "dateOfBirth": "27-03-1963",
+      "placeOfBirth": "Knoxville, Tennessee, USA",
+      "nationality": "American",
+      "profession": "Film Director, Screenwriter, Producer, Actor",
+      "biographyDetails": "Quentin Tarantino is renowned for his stylized, nonlinear storytelling, sharp dialogue, and genre-blending films that often pay homage to classic cinema."
+    },
+    {
+      "personalInfo": {
+        "spouse": "Daniella Pick",
+        "children": 2,
+        "residence": "Los Angeles, USA",
+        "education": {
+          "college": "Dropped out of high school",
+          "degree": "N/A"
+        }
+      }
+    },
+    {
+      "filmography": [
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "genres": ["Crime", "Drama", "Thriller"]
+        },
+        {
+          "title": "Kill Bill: Vol. 1",
+          "year": 2003,
+          "genres": ["Action", "Crime", "Drama"]
+        },
+        {
+          "title": "Inglourious Basterds",
+          "year": 2009,
+          "genres": ["Adventure", "Drama", "War"]
+        },
+        {
+          "title": "Django Unchained",
+          "year": 2012,
+          "genres": ["Western", "Drama", "Action"]
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "genres": ["Comedy", "Drama"]
+        }
+      ]
+    },
+    {
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [
+            {
+              "category": "Best Original Screenplay",
+              "recipient": "Pulp Fiction"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ridley Scott",
+      "dateOfBirth": "30-11-1937",
+      "placeOfBirth": "South Shields, England",
+      "nationality": "British",
+      "profession": "Film Director, Producer",
+      "biographyDetails": "Ridley Scott is known for his visually stunning and epic films, spanning genres like science fiction, historical drama, and action."
+    },
+    {
+      "personalInfo": {
+        "spouse": "Giannina Facio",
+        "children": 3,
+        "residence": "London, England",
+        "education": {
+          "college": "Royal College of Art",
+          "degree": "Fine Arts"
+        }
+      }
+    },
+    {
+      "filmography": [
+        {
+          "title": "Alien",
+          "year": 1979,
+          "genres": ["Sci-Fi", "Horror", "Thriller"]
+        },
+        {
+          "title": "Blade Runner",
+          "year": 1982,
+          "genres": ["Sci-Fi", "Drama", "Thriller"]
+        },
+        {
+          "title": "Gladiator",
+          "year": 2000,
+          "genres": ["Action", "Drama", "Adventure"]
+        },
+        {
+          "title": "The Martian",
+          "year": 2015,
+          "genres": ["Sci-Fi", "Adventure", "Drama"]
+        }
+      ]
+    },
+    {
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": []
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Denis Villeneuve",
+      "dateOfBirth": "03-10-1967",
+      "placeOfBirth": "Gentilly, Quebec, Canada",
+      "nationality": "Canadian",
+      "profession": "Film Director, Screenwriter, Producer",
+      "biographyDetails": "Denis Villeneuve is known for his bold and atmospheric films, often dealing with themes of isolation, identity, and humanity's future."
+    },
+    {
+      "personalInfo": {
+        "spouse": "Tanya Lapointe",
+        "children": 3,
+        "residence": "Montreal, Canada",
+        "education": {
+          "college": "Université du Québec à Montréal",
+          "degree": "Cinema"
+        }
+      }
+    },
+    {
+      "filmography": [
+        {
+          "title": "Prisoners",
+          "year": 2013,
+          "genres": ["Crime", "Drama", "Mystery"]
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "genres": ["Action", "Crime", "Drama"]
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "genres": ["Drama", "Sci-Fi", "Thriller"]
+        },
+        {
+          "title": "Blade Runner 2049",
+          "year": 2017,
+          "genres": ["Sci-Fi", "Drama", "Action"]
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "genres": ["Adventure", "Drama", "Sci-Fi"]
+        }
+      ]
+    },
+    {
+      "awardsAndNominations": {
+        "Oscars": {
+          "won": [],
+          "nominated": [
+            {
+              "category": "Best Director",
+              "recipient": "Dune"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  
